@@ -12,7 +12,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
  .negro img{    
-    max-width: 3vw;
+    max-width: 2vw;
     max-height: auto;
     
  }
@@ -26,7 +26,7 @@
 
 
 #contenedor{
-    position:fixed;
+    position:absolute;
     width: 100%;
     background-color: black;
     justify-content: center;

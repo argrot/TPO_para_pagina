@@ -6,7 +6,7 @@
 
 main {
     display: block;
-    padding: 1vh;
+    padding: 0vh;
     background:linear-gradient(to bottom, rgb(229, 177, 177),rgba(58, 1, 52, 0.999));
 }
 body {
@@ -29,50 +29,6 @@ body {
 
 }
 
-/* main{
-    background-color:rgba(58, 1, 52, 0.999) ;
-
-}
-
-.videos{
-    display:flex;
-    justify-content:space-around;
-    flex-wrap:wrap;
-    padding-top: 3vh;
-   
-    background-color:rgba(58, 1, 52, 0.999) ;
-}
-
-.videos2{
-    display:flex;
-    justify-content:space-around;
-    flex-wrap:wrap;
-    padding-top: 3vh;
-    padding-bottom: 3vh;
-   
-    background-color:rgba(58, 1, 52, 0.999) ;
-
-} */
-
-/* footer{
-    align-items: center;
-}
-
-.Pie{
-    display: flex;
-    background:linear-gradient(to top, rgb(229, 177, 177),rgba(58, 1, 52, 0.999));
-    height: 15vh;
-    justify-content:center;
-    align-content: center;
-    padding-top: 5vh;
-
-}
-
-.Pie img{
-    max-width: 6vh;
-    max-height: 6vh;
-    margin: 1vw;
-} */
 section {
     width: 100%;
     z-index: 1;
