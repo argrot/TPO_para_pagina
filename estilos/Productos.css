@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); */
 
 * {
     margin: 0%;
@@ -15,21 +15,6 @@ main {
 }
 
 
-/* .Pie {
-    display: flex;
-    background: linear-gradient(to top, rgb(58, 1, 52), #C08497);
-    height: 16vh;
-    justify-content: center;
-    align-content: center;
-    vertical-align: middle;
-    color: aqua;
-}
-
-.Pie a {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
-} */
 
 body {
     background: #C08497;
